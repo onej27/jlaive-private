@@ -1,0 +1,14 @@
+{
+  "inputFile": "",
+  "amsiBypass": true,
+  "antiDebug": false,
+  "antiVM": false,
+  "selfDelete": false,
+  "hidden": false,
+  "aes": true,
+  "xor": false,
+  "bindedFiles": [],
+  "outputbat": true,
+  "outputcmd": false,
+  "outputps1": false
+}
