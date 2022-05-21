@@ -20,4 +20,4 @@ Unlimited file binder</br>
 Output batch or powershell file</br>
 Bypass Get-UnJlaive (https://github.com/Dump-GUY/Get-UnJlaive)</br>
 
-this will probably bee outdated soon. if you'd like to purchase it legit head to https://discord.com/invite/RU5RjSe8WN</br>
+this will probably be outdated soon. if you'd like to purchase it legit head to https://discord.com/invite/RU5RjSe8WN</br>
