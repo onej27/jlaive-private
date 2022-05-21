@@ -1,5 +1,5 @@
 # jlaive-private
-cracked version of the jlaive crypter with basic gui and other funny stuff
+cracked premium version of the jlaive crypter with basic gui and other funny stuff
 
 ![image](https://user-images.githubusercontent.com/87503920/169633416-83c052de-8a21-4e43-9c24-9ee06ffef2b2.png)
 
